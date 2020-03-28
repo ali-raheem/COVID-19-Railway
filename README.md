@@ -8,8 +8,8 @@ Plotting New cases/deaths on Cumulative cases/deaths for COVID-19 (idea from [Mi
 
 ## Files
 
+*	R.ipynb - R based notebook produces the headline chart
 * COVID-19.loglog.ipynb - Python3 based notebook produces individual charts of each country in dataset
-*	ECDC_loglog.ipynb - R based notebook produces the headline chart
 
 ## Dependencies
 
