@@ -12,9 +12,9 @@ This method of plotting removes the date as a way of staging the pandemic and in
 Smaller single charts for each country can be found in the python3 notebook [COVID-19.loglog.ipynb](COVID-19.loglog.ipynb), while code for the above graphic is in the R notebook [R.ipynb](R.ipynb).
 
 ### United States
-![US Plot](COVID-19_loglog_US.png)
+![US Plot](COVID-19_loglog_US_nolegend.png)
 
-It's quite cluttered. But that's the point really, on the 3 day SMA no effect of policies is noticable (yet).
+It's quite cluttered. But that's the point really, on the 3 day SMA no effect of policies is noticable (yet). See [here]( 	COVID-19_loglog_US.png) for a version with a (mostly useless) legend.
 
 ## Files
 
