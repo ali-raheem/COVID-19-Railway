@@ -21,6 +21,7 @@ It's quite cluttered. But that's the point really, on the 3 day SMA perhaps new 
 *	[R.ipynb](R.ipynb) - R based notebook produces the headline chart
 * [COVID-19.loglog.ipynb](COVID-19.loglog.ipynb) - Python3 based notebook produces individual charts of each country in dataset
 * [US.loglog.ipynb](US.loglog.ipynb) - R based noteboook for US chart data
+* [loglogplots/](loglogplots/) - Folder of plots of cases and deaths by country
 
 ## Dependencies
 
