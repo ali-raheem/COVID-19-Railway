@@ -23,7 +23,7 @@ Smaller single charts for each country can be found in the python3 notebook [COV
 ### United States
 ![US Plot](COVID-19_loglog_US_nolegend.png)
 
-It's quite cluttered. But that's the point really, on the 3 day SMA perhaps new cases are slowing in NY? See [here]( 	COVID-19_loglog_US.png) for a version with a (mostly useless) legend.
+It's quite cluttered. But that's the point really, on the 3 day SMA perhaps new cases are slowing in NY? See [here](COVID-19_loglog_US.png) for a version with a (mostly useless) legend.
 
 ## Files
 
